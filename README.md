@@ -32,6 +32,5 @@ has many options to change.
 ## Usage
 - Navigate to the directory you want to save the clone into.
 - Initialise git repository by running `git init`.
-- Run `git clone --mirror https://github.com/jamesgower/typescript-react-boilerplate.git` in the CLI.
-- Navigate to the file by running `cd typescript-react-boilerplate.git`.
-- Set the push location to the mirror by running `git remote set-url --push origin https://github.com/<your_username>/<your_repo_name>`
+- Run `git clone https://github.com/jamesgower/typescript-react-boilerplate` in the CLI.
+- Navigate to the file by running `cd typescript-react-boilerplate`.
